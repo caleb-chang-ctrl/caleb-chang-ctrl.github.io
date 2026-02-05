@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "caleb-chang-ctrl/website",
+    "data-repo": "caleb-chang-ctrl/caleb-chang-ctrl.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
