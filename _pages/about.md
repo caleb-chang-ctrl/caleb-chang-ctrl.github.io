@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Control and Trustworthy Robotics Lab](https://depts.washington.edu/ctrl/people/caleb_chang/), University of Washington
+subtitle: Control and Trustworthy Robotics Lab, University of Washington
 
 profile:
   align: right
