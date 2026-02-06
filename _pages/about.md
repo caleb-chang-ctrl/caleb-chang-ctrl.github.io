@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Control and Trustworthy Robotics Lab, University of Washington
+subtitle: cchang26 [at] uw [dot] edu
 
 profile:
   align: right
