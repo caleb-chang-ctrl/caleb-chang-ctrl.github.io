@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Robotics Ph.D. student at the University of Washington, where I work on safe autonomy with Professor [Karen Leung](https://faculty.washington.edu/kymleung/). 
+I am a Robotics Ph.D. student at the University of Washington, where I work on human-centric safe autonomy with Professor [Karen Leung](https://faculty.washington.edu/kymleung/). 
 
 I received my MS in Robotics and BS in Electrical Engineering from the Georgia Institute of Technology. During my MS, I worked on imitation learning for robot safety with Professor [Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay). During my BS, I worked on perception for manipulators and wheeled robots with Professor [Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). 
 
-I also had the wonderful opportunity to work with [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) at the Robotics Institute, Carnegie Mellon University. 
+I also had the wonderful opportunity to work on safety-critical control with [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) at the Robotics Institute, Carnegie Mellon University. 
