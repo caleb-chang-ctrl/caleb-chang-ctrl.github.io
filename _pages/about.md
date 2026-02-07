@@ -8,10 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: # >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  more_info: # Seattle, Washington
+    # <p>Seattle, Washington</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Robotics Ph.D. student at the University of Washington, where I work on human-centric safe autonomy with Professor [Karen Leung](https://faculty.washington.edu/kymleung/). 
+Hi! I’m a Robotics Ph.D. student in the [Control & Trustworthy Robotics Lab](https://depts.washington.edu/ctrl/) at the University of Washington, advised by Professor [Karen Leung](https://faculty.washington.edu/kymleung/). 
 
-I received my MS in Robotics and BS in Electrical Engineering from the Georgia Institute of Technology. During my MS, I worked on imitation learning for robot safety with Professor [Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay). During my BS, I worked on perception for manipulators and wheeled robots with Professor [Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). 
+My research sits at the intersection of control theory, machine learning, and human–robot interaction. I focus on developing personalized and trustworthy methods for interactive autonomy that move beyond simple collision avoidance. I aim to equip robots with a deeper understanding of human and task context, ensuring their behavior aligns seamlessly with human intent and preferences.
 
-I also had the wonderful opportunity to work on safety-critical control with [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) at the Robotics Institute, Carnegie Mellon University. 
+Previously, I received an M.S. in Robotics and a B.S. in Electrical Engineering from Georgia Tech. During my Master’s, I worked on imitation learning for robot safety with Professor [Matthew Gombolay](https://www.cc.gatech.edu/people/matthew-gombolay). As an undergraduate, I focused on perception and planning for manipulators and wheeled robots with Professor [Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). I also worked on safety-critical control with [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) at Carnegie Mellon's Robotics Institute.
