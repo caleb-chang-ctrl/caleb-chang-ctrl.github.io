@@ -1,9 +1,21 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Conferences
+"ICRA":
+  url: https://ieee-icra.org/
+  color: "#0051ba"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IROS":
+  url: https://www.iros.org/
+  color: "#0051ba"
 
-"Vision":
-  color: "#009f36"
+"RSS":
+  url: https://roboticsconference.org/
+  color: "#0051ba"
+
+# Workshops
+"RISS":
+  url: https://riss.ri.cmu.edu/research_showcase/working-papers-journals/
+  color: "#28a745"
+
+"ORSS":
+  url: https://ors.ece.gatech.edu/
+  color: "#28a745"
