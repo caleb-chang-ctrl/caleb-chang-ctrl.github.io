@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm grateful to receive the Geda and Phil Condit Endowed Gradaute Fellowship!
+I'm grateful to receive the Geda and Phil Condit Endowed Graduate Fellowship!
